@@ -2,10 +2,10 @@
 Contributors: herothemes, richardlong, chrishadley
 Tags: glossary, block, terms, definition, dictionary, vocabulary, acronym, synonyms, lexicon, abbreviation
 Requires at least: 6.0
-Tested up to: 6.5.2
+Tested up to: 6.7.2
 Requires PHP: 7.4
-Version: 1.2.5
-Stable tag: 1.2.5
+Version: 2.0.0
+Stable tag: 2.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -21,87 +21,102 @@ Heroic Glossary enables you to craft engaging glossaries, dictionaries, encyclop
 
 At [HeroThemes](https://herothemes.com/?utm_source=wprepo&utm_medium=link&utm_campaign=heroic-glossary), we prioritize user experience. Our pre-designed glossary templates and intuitive workflow make Heroic Glossary the most user-friendly glossary plugin on the market.
 
-= What is a Glossary? = 
+= What is a Glossary and Why Do You Need One? = 
 
-A glossary helps your audience understand technical terms, acronyms and abbreviations they may not be familiar with. This is perfect if you're writing technical articles or documents using terms that might not be understood by your audience.
+A glossary is an essential tool that helps your website visitors and readers quickly understand specialized terminology, technical jargon, acronyms, and industry-specific terms. By implementing a glossary, you can significantly improve user experience and reduce confusion, making your content more accessible and professional.
 
-Heroic Glossary is a Gutenberg Block which means you can build your glossary right in the editor with a few clicks, it includes the following functionality and features:
+Heroic Glossary is a powerful Gutenberg Block that enables you to create professional glossaries directly in the WordPress editor with these premium features:
 
-* Instant search of the glossary
-* Alphabetical navigation
-* Create an unlimited number of glossaries
-* Re-use glossaries on multiple pages with "reusable blocks"
+* Lightning-fast search functionality with instant results
+* User-friendly A-Z alphabetical navigation
+* Create unlimited glossaries for different sections or topics
+* Save time by reusing glossaries across multiple pages with "reusable blocks"
+* SEO-friendly structure that helps search engines understand your content
+* Mobile-responsive design that works on all devices
 
-The Heroic Glossary Block includes a number of configurable settings and predefined styles to customize the display of your glossary.
+The Heroic Glossary Block comes with extensive customization options and professionally designed templates to match your website's look and feel.
 
-= WordPress Glossary Plugin Use-Cases = 
+= Professional Use Cases for Heroic Glossary = 
 
-* Dictionary – Develops a dictionary with specialized terms utilized on your website.
-* Encyclopedia – Constructs a comprehensive compendium for your site.
-* Synonyms – Maintains and presents alternative words for the terms you employ.
-* Lexicon – Establishes a repository of specific terms.
-* Terminology – Compiles a collection of unique terms and phrases.
-* Definitions – Provides clarifications for words used in your articles or web pages.
-* Language Translations – Converts terms and their meanings into a chosen language.
+* Technical Documentation – Create clear, searchable documentation with defined terminology
+* Educational Websites – Build comprehensive learning resources with explained concepts
+* Industry Glossaries – Develop specialized term collections for your field
+* Multi-language Support – Create bilingual or multilingual term translations
+* Knowledge Bases – Enhance your KB with integrated terminology explanations
+* Corporate Communications – Standardize company terminology and definitions
+* Academic Resources – Build scholarly reference materials and lexicons
 
-= What's Next =
-[HeroThemes](https://herothemes.com/?utm_source=wprepo&utm_medium=link&utm_campaign=heroic-glossary) develop the best WordPress customer support plugins with over 26,000 customers and counting. If you like our glossary plugin, then consider checking out our other plugins:
+= Why Choose HeroThemes? =
 
-* [Heroic KB](https://herothemes.com/plugins/heroic-wordpress-knowledge-base/?utm_source=wprepo&utm_medium=link&utm_campaign=heroic-glossary) - The best WordPress knowledge base plugin. Create a beautifully designed, searchable knowledge base in minutes.
-* [Heroic Inbox](https://herothemes.com/plugins/heroic-inbox/?utm_source=wprepo&utm_medium=link&utm_campaign=heroic-glossary) - Super-powered WordPress helpdesk & customer support plugin. Manage all your customer emails & support tickets directly in your WordPress website.
+[HeroThemes](https://herothemes.com/?utm_source=wprepo&utm_medium=link&utm_campaign=heroic-glossary) is the trusted leader in WordPress knowledge management solutions, serving over 26,000 satisfied customers worldwide. Our premium support and regular updates ensure your glossary stays current and functional.
+
+Enhance your website with our complete suite of professional documentation tools:
+
+* [Heroic KB](https://herothemes.com/plugins/heroic-wordpress-knowledge-base/?utm_source=wprepo&utm_medium=link&utm_campaign=heroic-glossary) - The #1 rated WordPress knowledge base plugin for creating comprehensive, searchable documentation
+* [Heroic Inbox](https://herothemes.com/plugins/heroic-inbox/?utm_source=wprepo&utm_medium=link&utm_campaign=heroic-glossary) - Professional WordPress helpdesk & customer support solution with advanced ticket management
 
 == Installation ==
 
-### INSTALL HEROIC GLOSSARY FROM WITHIN WORDPRESS
+### QUICK WORDPRESS INSTALLATION
 
-1. Visit the plugins page within your dashboard and select "Add New"
-1. Search for "Heroic Glossary";
-1. Activate Heroic Glossary from your "Plugins" page;
-1. Go to "after activation" below.
+1. Open your WordPress dashboard and navigate to "Plugins" → "Add New"
+1. Search for "Heroic Glossary" in the plugin directory
+1. Click "Install Now" followed by "Activate"
+1. Start creating your glossary using the block editor
 
-### INSTALL HEROIC GLOSSARY MANUALLY
+### MANUAL INSTALLATION
 
-1. Upload the unzipped "heroic-glossary" folder to your websites /wp-content/plugins/ directory;
-1. Activate the Heroic Glossary plugin through the "Plugins" page in WordPress;
-1. Go to "after activation" below.
+1. Download and unzip the "heroic-glossary" plugin
+1. Upload the folder to your /wp-content/plugins/ directory
+1. Activate Heroic Glossary through the WordPress plugins menu
+1. Begin using the glossary block in your content
 
-### AFTER ACTIVATION
+### GETTING STARTED
 
-You can now create a glossary by adding the Heroic Glossary block to your content using the **+** button in the WordPress block editor. 
-
+Simply add the Heroic Glossary block to any page or post using the **+** button in the WordPress block editor. Need help? Check out our [comprehensive documentation](https://herothemes.com/kb/?utm_source=wprepo&utm_medium=link&utm_campaign=heroic-glossary).
 
 == Frequently Asked Questions ==
 
-= Who should use Heroic Glossary? =
+= Who benefits most from using Heroic Glossary? =
 
-Heroic Glossary is for any WordPress site where you want to add a glossary of terms to a post or page, which may need to be filtered and searched.
+Heroic Glossary is perfect for websites that need to explain complex terminology, including:
+- Technical documentation sites
+- Educational platforms
+- Corporate websites
+- Knowledge bases
+- Training materials
+- Industry-specific blogs
 
-= Will Heroic Glossary work with my theme? =
+= Is Heroic Glossary compatible with my WordPress theme? =
 
-Heroic Glossary is designed to work with any WordPress theme.
+Yes! Heroic Glossary is designed to work seamlessly with any WordPress theme while maintaining your site's professional appearance.
 
-= Is Heroic Glossary translation ready? =
+= Does Heroic Glossary support multiple languages? =
 
-Yes, Heroic Glossary has full translation and localization support.
+Absolutely! The plugin is fully translation-ready and supports localization for global audiences.
 
-= Do I need to use the block editor (Gutenberg) with Heroic Glossary? =
+= Can I use Heroic Glossary with the classic editor? =
 
-Yes, Heroic Glossary was designed from the ground up to take advantage of the powerful and versatile WordPress block editor. Unfortunately It will not work with the classic editor.
+Heroic Glossary is built specifically for the modern WordPress block editor (Gutenberg) to provide the best possible user experience and functionality. Classic editor support is not available.
 
-Feel free to contact us directly via [herothemes.com/contact/](https://herothemes.com/contact/?utm_source=wprepo&utm_medium=link&utm_campaign=heroic-glossary) for any questions.
+= Where can I get professional support? =
 
-= How do I get support? =
+We offer multiple support channels:
+- [Official WordPress.org Support Forums](https://wordpress.org/support/plugin/heroic-glossary/)
+- [HeroThemes Knowledge Base](https://herothemes.com/kb/?utm_source=wprepo&utm_medium=link&utm_campaign=heroic-glossary)
+- [Direct Support](https://herothemes.com/contact/?utm_source=wprepo&utm_medium=link&utm_campaign=heroic-glossary) for specific questions
 
-If you have trouble with the Heroic Glossary WordPress plugin, you can get help on the support forums here at [wordpress.org](https://wordpress.org/support/plugin/heroic-glossary/) or by checking out our [knowledge base](https://herothemes.com/kb/?utm_source=wprepo&utm_medium=link&utm_campaign=heroic-glossary).
+= Is there a demo available? =
 
-= Do you have a demo of the Heroic Glossary? =
+Yes! Experience Heroic Glossary in action on our [live demo site](https://demo.herothemes.com/heroic-glossary/?utm_source=wprepo&utm_medium=link&utm_campaign=heroic-glossary).
 
-Yes, you can see the glossary in use on the [Heroic Glossary Demo](https://demo.herothemes.com/heroic-glossary/?utm_source=wprepo&utm_medium=link&utm_campaign=heroic-glossary).
+= How do I add sample content to get started? =
 
-= How can I import sample glossary content? =
-
-When you add the Heroic Glossary block, select the block and then click the ⋮ symbol in the block menu and select the Import sample content option from the dropdown. Note this will delete any existing block content.
-
+Adding sample content is easy:
+1. Add the Heroic Glossary block to your page
+2. Click the ⋮ menu icon in the block toolbar
+3. Select "Import sample content"
+Note: This will replace any existing content in the block.
 
 == Screenshots ==
 
@@ -112,6 +127,14 @@ When you add the Heroic Glossary block, select the block and then click the ⋮ 
 5. The block options can be controlled from the inspector panel
 
 == Changelog ==
+
+= 2.0.0 =
+(24 Feb 2025)
+
+(Updated)  Latest block implementation adopted
+(Improved) Alphabetical ordering of mixed case terms
+(Improved) Compatibility with WordPress 6.7.2
+(Improved) Updated example content
 
 = 1.2.5 =
 (29 Apr 2024)
@@ -158,3 +181,15 @@ When you add the Heroic Glossary block, select the block and then click the ⋮ 
 (24 Jan 2020)
 
 (New) Initial release
+
+
+== Upgrade Notice ==
+
+= 2.0.0 =
+Major update with improved block implementation and better alphabetical ordering. Compatible with WordPress 6.7.2. Possible breaking changes, please read the changelog and ensure you backup your site before upgrading.
+
+= 1.2.5 =
+Important bug fix for "All" filter functionality in both editor and frontend.
+
+= 1.2.4 =
+Compatibility update for WordPress 6.4.2.
