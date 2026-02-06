@@ -4,10 +4,10 @@
 *	Plugin URI:  https://herothemes.com/heroic-glossary
 *	Description: Glossary plugin for WordPress - add a Glossary block to the WordPress editor
 *	Author: HeroThemes
-*	Version: 2.0.0
-*	Build: 443
-*   Build Date: 2025-02-24 2:55:22PM
-*   Tested up to: 6.7.2
+*	Version: 2.0.1
+*	Build: 454
+*   Build Date: 2026-01-05 12:25:53PM
+*   Tested up to: 6.9.0
 *	Author URI: https://www.herothemes.com/
 *	Text Domain: ht-glossary
 */
@@ -19,12 +19,12 @@ if (! defined('ABSPATH')) {
 
 // ht glossary plugin version number.
 if (! defined('HT_GLOSSARY_VERSION_NUMBER')) {
-	define('HT_GLOSSARY_VERSION_NUMBER', '2.0.0');
+	define('HT_GLOSSARY_VERSION_NUMBER', '2.0.1');
 }
 
 // ht glossary build number.
 if (! defined('HT_GLOSSARY_BUILD_NUMBER')) {
-	define('HT_GLOSSARY_BUILD_NUMBER', 443 );
+	define('HT_GLOSSARY_BUILD_NUMBER', 454 );
 }
 
 // ht glossary main file.

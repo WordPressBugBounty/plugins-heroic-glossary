@@ -2,10 +2,10 @@
 Contributors: herothemes, richardlong, chrishadley
 Tags: glossary, block, terms, definition, dictionary, vocabulary, acronym, synonyms, lexicon, abbreviation
 Requires at least: 6.0
-Tested up to: 6.7.2
+Tested up to: 6.9.0
 Requires PHP: 7.4
-Version: 2.0.0
-Stable tag: 2.0.0
+Version: 2.0.1
+Stable tag: 2.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -128,6 +128,14 @@ Note: This will replace any existing content in the block.
 
 == Changelog ==
 
+= 2.0.1 =
+(5 Jan 2026)
+
+(Fixed) Resolved "Cannot supply a strategy `defer` for script `jquery`" error in WordPress 6.3+
+(Fixed) Resolved "sprintf is not defined" error when adding or updating glossary items
+(Improved) Frontend script dependency management through webpack build process
+(Improved) jQuery now properly declared as external dependency via asset file
+
 = 2.0.0 =
 (24 Feb 2025)
 
@@ -184,6 +192,9 @@ Note: This will replace any existing content in the block.
 
 
 == Upgrade Notice ==
+
+= 2.0.1 =
+Important compatibility fix for WordPress 6.3+ resolving jQuery script loading strategy error. Recommended update for all users.
 
 = 2.0.0 =
 Major update with improved block implementation and better alphabetical ordering. Compatible with WordPress 6.7.2. Possible breaking changes, please read the changelog and ensure you backup your site before upgrading.
